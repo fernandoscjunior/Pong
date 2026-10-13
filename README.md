@@ -10,9 +10,16 @@ To win you just have to score 3 points first.
 Enter/Return -> Starts game and rounds once a player scores
 Esc/Escape -> Exits the game
 
-{Describe how to play your game.}
+Player 1 -> Uses "w" to go up and "s" to go down
+Player 2 -> Uses "up" arrow key to go up and "down" arrow key to go down
 
-{Describe your purpose for writing this software.}
+**Why write yet another Pong clone?**
+Since I was little I wanted to create my own games. Only now as a software developer I have the skills to do so, I wanted to know more about graphics libraries (more specifically Löve 2D) and also learn more about Lua since it was created in my beloved Brazil and I have never experimented it. Pong is a simple game, yet it covers the fundamentals of creating a video-game. Also I knew that Harvard had an amazing free class covering this exact project.
+
+**How to play**
+Just run the executable found in the main directory, since the source code is open for you to read you can exactly what you are going to execute.
+If you are using a Linux or MacOs/OSX machine, you will have to compile the source code, for this you can follow the tutorial on the official Löve 2D website below:
+[Game Distribution](https://www.love2d.org/wiki/Game_Distribution#:~:text=Once%20you%20have%20packed%20your%20game%20into%20a,file.%20The%20resulting%20file%20is%20your%20game%20executable.)
 
 ## Development Environment
 
